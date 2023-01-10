@@ -7,4 +7,6 @@ main {
   align-content: flex-start;
   position: relative;
   background-color: aquamarine;
+  padding: 20px;
+  gap: 20px;
 }

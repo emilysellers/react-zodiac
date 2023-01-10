@@ -1,4 +1,7 @@
 header {
-  height: 30px;
-  background-color: rgb(128, 47, 47);
+  height: 50px;
+  background-color: rgb(39, 9, 69);
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
 }
