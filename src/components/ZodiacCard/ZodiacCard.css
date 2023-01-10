@@ -1,20 +1,24 @@
 .card {
-  border: 1px solid rgb(105, 35, 175);
+  border: 4px solid rgb(82, 38, 127);
   background-color: white;
-  width: 120px;
-  height: 120px;
+  width: 175px;
+  height: 175px;
   border-radius: 50%;
-  padding: 5px;
+  padding: 10px;
+  opacity: 85%;
 }
 
 .card img {
-  width: 40px;
+  width: 50%;
 }
 
 .card h2 {
-  font-size: 16px;
+  font-size: 24px;
+  margin: 5px;
+  font-family: monospace;
 }
 
 .card span {
-  font-size: 10px;
+  font-size: 16px;
+  font-family: fantasy;
 }
