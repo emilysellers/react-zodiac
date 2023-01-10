@@ -1,0 +1,10 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 60px;
+  background-size: cover;
+  height: 700px;
+  align-content: flex-start;
+  position: relative;
+  background-color: aquamarine;
+}
