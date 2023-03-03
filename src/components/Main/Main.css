@@ -2,7 +2,6 @@ main {
   align-content: flex-start;
   justify-content: center;
   background-size: cover;
-  background-image: -moz-repeating-linear-gradient();
   background-repeat: repeat;
   display: flex;
   flex-wrap: wrap;
