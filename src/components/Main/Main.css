@@ -1,10 +1,11 @@
 main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
   align-content: flex-start;
   justify-content: center;
   background-size: cover;
   background-repeat: repeat;
-  display: flex;
-  flex-wrap: wrap;
   height: 100%;
   padding: 20px;
   gap: 20px;
