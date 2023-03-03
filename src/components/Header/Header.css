@@ -12,3 +12,10 @@ header {
   padding-left: 30px;
   border-bottom: 1px rgb(255, 250, 192) solid;
 }
+
+@media (max-width: 500px) {
+  header {
+    font-size: 35px;
+    justify-self: center;
+  }
+}
