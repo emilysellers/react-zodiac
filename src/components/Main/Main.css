@@ -1,4 +1,4 @@
-main {
+/* main {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -9,11 +9,11 @@ main {
   height: 100%;
   padding: 20px;
   gap: 20px;
-}
+} */
 
-@media (max-width: 500px) {
+/* @media (max-width: 500px) {
   main {
     padding: 8px;
     justify-content: center;
   }
-}
+} */
